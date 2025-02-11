@@ -5,9 +5,7 @@ public class Main {
 		Scanner scanner = new Scanner(System.in);
 
 		int N = scanner.nextInt();
-
 		String dados = scanner.next();
-
 		String palavraChave = scanner.next();
 
 		for (int i = 0; i < palavraChave.length(); i++) {
