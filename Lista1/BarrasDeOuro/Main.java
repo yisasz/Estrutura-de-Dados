@@ -1,3 +1,4 @@
+package executavel;
 import java.util.Scanner;
 
 public class Main {
